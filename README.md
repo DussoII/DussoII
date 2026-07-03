@@ -1,6 +1,41 @@
-# About Me:
-Telecom Intern passionate about Networking and Infrastructure<br>Learning Routing, Switching, VLANs, STP, OSPF, and Network Security.<br><br>Current Goals:<br>- Earn the CCNA certification<br>- Build hands-on networking labs<br>- Learn Python for Network Automation<br>- Grow as a Network Engineer<br><br>Connect with me<br>- LinkedIn: https://www.linkedin.com/in/joaodusso/
+# João Dusso
 
+### Telecom Intern | CCNA Candidate | Future Network Engineer
 
-## Socials:
-[![LinkedIn]](https://linkedin.com/in/João Dusso Segundo) 
+Currently working in the telecommunications field and building a solid foundation in networking and infrastructure.
+
+## About Me
+
+- Studying for the Cisco Certified Network Associate (CCNA)
+- Interested in Network Engineering, Infrastructure, and Network Security
+- Building hands-on labs to strengthen networking skills
+- Continuously learning Linux and network automation fundamentals
+
+## Technologies & Tools
+
+### Networking
+- TCP/IP
+- IPv4 & IPv6
+- VLANs
+- Routing & Switching
+- OSPF
+- DHCP
+- NAT
+- ACLs
+
+### Tools
+- Cisco Packet Tracer
+- Wireshark
+- Git
+- GitHub
+
+### Operating Systems
+- Linux
+- Windows
+
+## Current Goals
+
+- Earn the Cisco CCNA certification
+- Expand knowledge in enterprise networking
+- Learn Python for Network Automation
+- Develop practical networking projects and labs
