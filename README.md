@@ -11,9 +11,8 @@ Currently working in the telecommunications field and building a solid foundatio
 - Building hands-on labs to strengthen networking skills
 - Continuously learning Linux
 
-## Technologies & Tools
+## Currently Learning
 
-### Networking
 - TCP/IP
 - IPv4 & IPv6
 - VLANs
@@ -25,7 +24,8 @@ Currently working in the telecommunications field and building a solid foundatio
 
 ### Tools
 - Cisco Packet Tracer
-- Wireshark
+- GNS3
+- Wiresharj
 - Git
 - GitHub
 
