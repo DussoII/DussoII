@@ -13,6 +13,8 @@ Currently working in the telecommunications field and building a solid foundatio
 
 ## Currently Learning
 
+### Networking
+
 - TCP/IP
 - IPv4 & IPv6
 - VLANs
@@ -23,13 +25,15 @@ Currently working in the telecommunications field and building a solid foundatio
 - ACLs
 
 ### Tools
+
 - Cisco Packet Tracer
 - GNS3
 - Wiresharj
 - Git
 - GitHub
 
-### Operating Systems
+## Operating Systems
+
 - Linux
 - Windows
 
