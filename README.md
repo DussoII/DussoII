@@ -9,7 +9,7 @@ Currently working in the telecommunications field and building a solid foundatio
 - Studying for the Cisco Certified Network Associate (CCNA)
 - Interested in Network Engineering, Infrastructure, and Network Security
 - Building hands-on labs to strengthen networking skills
-- Continuously learning Linux and network automation fundamentals
+- Continuously learning Linux
 
 ## Technologies & Tools
 
