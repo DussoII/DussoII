@@ -28,7 +28,7 @@ Currently working in the telecommunications field and building a solid foundatio
 
 - Cisco Packet Tracer
 - GNS3
-- Wiresharj
+- WiresharK
 - Git
 - GitHub
 
